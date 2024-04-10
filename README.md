@@ -25,7 +25,7 @@ Update Variables:
 6.Initialize Terraform using terraform init, terraform plan, terraform apply
 
 WARNING! 
-After compliting your project don't forget to vipe everything with the command: terraform destroy
+After completing your project don't forget to vipe everything with the command: terraform destroy
 
 Contributing:
 We welcome contributions from the community! Feel free to fork this repository, make improvements, and submit pull requests.
